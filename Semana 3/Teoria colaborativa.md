@@ -1,4 +1,4 @@
-Teoría colaborativa sobre la comunicación de componentes y ciclos de vida
+Teoría colaborativa sobre la comunicación de componentes y ciclos de vida 
 
 
 Teoría
